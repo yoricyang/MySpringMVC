@@ -27,3 +27,5 @@ MVC：
 匹配 HandleMapping： 从 request 对象中获得用户输入的 url，找到其对应的 Method
 反射调用 method.invoker()： 利用反射调用方法并返回结果
 response.getWrite().write()： 将返回结果输出到浏览器
+
+#### [来源自Spring 5核心原理与30个类手写实战](https://zhuanlan.zhihu.com/p/81395470)
